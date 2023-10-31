@@ -1,0 +1,21 @@
+/* styles.css */
+
+.odd {
+    background-color: rgb(240, 128, 128);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#id-one {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#id-two {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.class-three {
+    font-size: 24px;
+}
